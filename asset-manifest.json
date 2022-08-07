@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/supervinyl.github.io/2eggs2fly/static/css/main.a3852de6.css",
+    "main.js": "/supervinyl.github.io/2eggs2fly/static/js/main.8ad5711d.js",
+    "index.html": "/supervinyl.github.io/2eggs2fly/index.html",
+    "main.a3852de6.css.map": "/supervinyl.github.io/2eggs2fly/static/css/main.a3852de6.css.map",
+    "main.8ad5711d.js.map": "/supervinyl.github.io/2eggs2fly/static/js/main.8ad5711d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3852de6.css",
+    "static/js/main.8ad5711d.js"
+  ]
+}
